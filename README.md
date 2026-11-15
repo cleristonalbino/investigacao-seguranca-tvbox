@@ -90,6 +90,7 @@ O projeto está organizado em três áreas principais:
 - [Documentação e relatório completo](docs/README.md)
 - [Metodologia da investigação](metodologia/README.md)
 - [Catálogo de evidências visuais](evidencias/README.md)
+-**[Missão TV Box - Guia Completo de Investigação de Segurança (PDF)](Manual_Missao_TVBox_Investigacao_Seguranca_Iniciante_ARCADE.pdf)**
 
 O relatório completo está disponível em [PDF](docs/Relatorio_Investigacao_TVBox_MXQ_a.pdf).
 
