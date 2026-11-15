@@ -85,7 +85,13 @@ Uma das principais lições foi entender que não encontrar provas de malware n�
 
 ## Estrutura do repositório
 
-Este repositório será organizado para reunir a documentação, os resultados dos testes e as referências utilizadas durante a investigação.
+O projeto está organizado em três áreas principais:
+
+- [Documentação e relatório completo](docs/README.md)
+- [Metodologia da investigação](metodologia/README.md)
+- [Catálogo de evidências visuais](evidencias/README.md)
+
+O relatório completo está disponível em [PDF](docs/Relatorio_Investigacao_TVBox_MXQ_a.pdf).
 
 ## Aviso
 
