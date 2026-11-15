@@ -85,7 +85,7 @@ Uma das principais lições foi entender que não encontrar provas de malware n�
 
 ## Estrutura do repositório
 
-O projeto está organizado em três áreas principais:
+O projeto está organizado em quatro áreas principais:
 
 - [Documentação e relatório completo](docs/README.md)
 - [Metodologia da investigação](metodologia/README.md)
